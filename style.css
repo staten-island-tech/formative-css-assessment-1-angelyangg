@@ -1,6 +1,6 @@
 body{
     background-image: linear-gradient(to bottom,
-    rgba(241, 240, 223, 0.75),
+    rgba(255, 251, 202, 0.6),
     rgba(159, 218, 64, 0.6)
     ),
     url(bg.jpg);
@@ -10,15 +10,10 @@ body{
 }
 div {height: 100vh;
     color: black;
-    font-size: 40px;
+    font-size: 36px;
 }
 h1{
     color: rgb(0, 0, 0);
-    font-size: 65px;
+    font-size: 72px;
     text-transform: uppercase;
 }
-img {
-    filter: brightness(120%) drop-shadow(10px 10px 15px black);
-  }
-
-  /* Filters for image came from https://www.w3schools.com/CSSref/css3_pr_filter.asp */
