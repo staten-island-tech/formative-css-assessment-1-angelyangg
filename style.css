@@ -1,4 +1,4 @@
-body{
+div{
     background-image: linear-gradient(to bottom,
     rgba(241, 240, 223, 0.75),
     rgba(159, 218, 64, 0.6)
@@ -7,8 +7,7 @@ body{
     background-size: cover;
     background-position: center;
     text-align: center;
-}
-div {height: 100vh;
+    height: 100vh;
     color: black;
     font-size: 40px;
     line-height: 40px;
